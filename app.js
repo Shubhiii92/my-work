@@ -118,7 +118,7 @@ const ASSIGNMENTS_DATA = [
     category: "Infrastructure Analysis",
     date: "August 2026",
     deliverables: [
-      { name: "EWM_Assignment_3.pdf", type: "Presentation Deck (13 Slides)", size: "19.0 MB", path: "assignments/EWM_Assignment_3.pdf", primary: true }
+      { name: "EWM_Assignment_3.pdf", type: "Presentation Deck (13 Slides)", size: "1.8 MB", path: "assignments/EWM_Assignment_3.pdf", primary: true }
     ],
     summary: "13-slide academic presentation deck examining Himachal Pradesh's e-waste volumes, geographic distribution across urban centers (Shimla, Solan, Dharamshala), collection logistical constraints in mountainous terrains, and state authorized recycling capacity.",
     keyTakeaways: [
